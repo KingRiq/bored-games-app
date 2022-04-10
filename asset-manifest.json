@@ -1,15 +1,15 @@
 {
-  "main.css": "/bored-games-app/static/css/main.90dd508c.chunk.css",
-  "main.js": "/bored-games-app/static/js/main.881a67bc.chunk.js",
-  "main.js.map": "/bored-games-app/static/js/main.881a67bc.chunk.js.map",
-  "static/js/1.97af9aab.chunk.js": "/bored-games-app/static/js/1.97af9aab.chunk.js",
-  "static/js/1.97af9aab.chunk.js.map": "/bored-games-app/static/js/1.97af9aab.chunk.js.map",
-  "static/js/2.5da7fdb9.chunk.js": "/bored-games-app/static/js/2.5da7fdb9.chunk.js",
-  "static/js/2.5da7fdb9.chunk.js.map": "/bored-games-app/static/js/2.5da7fdb9.chunk.js.map",
-  "runtime~main.js": "/bored-games-app/static/js/runtime~main.a62a0f06.js",
-  "runtime~main.js.map": "/bored-games-app/static/js/runtime~main.a62a0f06.js.map",
-  "static/css/main.90dd508c.chunk.css.map": "/bored-games-app/static/css/main.90dd508c.chunk.css.map",
-  "index.html": "/bored-games-app/index.html",
-  "precache-manifest.64df35a112c65812874f1ee3c09baabf.js": "/bored-games-app/precache-manifest.64df35a112c65812874f1ee3c09baabf.js",
-  "service-worker.js": "/bored-games-app/service-worker.js"
+  "main.css": "BoredGames.com/static/css/main.90dd508c.chunk.css",
+  "main.js": "BoredGames.com/static/js/main.881a67bc.chunk.js",
+  "main.js.map": "BoredGames.com/static/js/main.881a67bc.chunk.js.map",
+  "static/js/1.97af9aab.chunk.js": "BoredGames.com/static/js/1.97af9aab.chunk.js",
+  "static/js/1.97af9aab.chunk.js.map": "BoredGames.com/static/js/1.97af9aab.chunk.js.map",
+  "static/js/2.5da7fdb9.chunk.js": "BoredGames.com/static/js/2.5da7fdb9.chunk.js",
+  "static/js/2.5da7fdb9.chunk.js.map": "BoredGames.com/static/js/2.5da7fdb9.chunk.js.map",
+  "runtime~main.js": "BoredGames.com/static/js/runtime~main.1f3cfc66.js",
+  "runtime~main.js.map": "BoredGames.com/static/js/runtime~main.1f3cfc66.js.map",
+  "static/css/main.90dd508c.chunk.css.map": "BoredGames.com/static/css/main.90dd508c.chunk.css.map",
+  "index.html": "BoredGames.com/index.html",
+  "precache-manifest.c096fe11a8b8163e587f7639147b8fa7.js": "BoredGames.com/precache-manifest.c096fe11a8b8163e587f7639147b8fa7.js",
+  "service-worker.js": "BoredGames.com/service-worker.js"
 }
