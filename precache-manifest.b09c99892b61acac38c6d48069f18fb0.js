@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "881a67bcba03e3a32244",
-    "url": "/bored-game-app/static/css/main.90dd508c.chunk.css"
+    "revision": "3360b4461bc21762fb9f",
+    "url": "/bored-game-app/static/css/main.ffe7cdae.chunk.css"
   },
   {
-    "revision": "881a67bcba03e3a32244",
-    "url": "/bored-game-app/static/js/main.881a67bc.chunk.js"
+    "revision": "3360b4461bc21762fb9f",
+    "url": "/bored-game-app/static/js/main.3360b446.chunk.js"
   },
   {
     "revision": "97af9aaba510c3e4c76e",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/bored-game-app/static/js/runtime~main.8944a09c.js"
   },
   {
-    "revision": "53cb75f921d728be9e9b74a043dde231",
+    "revision": "6c7a67fa7b5800d42fbc4cb3e46122d8",
     "url": "/bored-game-app/index.html"
   }
 ];
